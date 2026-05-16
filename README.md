@@ -1,7 +1,7 @@
 #  TenderSort — AI-Based Tender Evaluation Platform
 
 > **Hackathon 2025 · CRPF · Theme 3**  
-> Built by **SimplifyAI**
+
 
 ---
 
