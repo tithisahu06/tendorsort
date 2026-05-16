@@ -8,7 +8,6 @@
 ##  Links
 
 -  **Live Demo:** [tendersort.netlify.app](https://tendorsort.netlify.app/)
--  **GitHub:** [github.com/zaidkamar08/tendersort](https://github.com/zaidkamar08/tendersort)
 
 ---
 
